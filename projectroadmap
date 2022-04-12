@@ -1,6 +1,4 @@
-Prior to 4/12/22 
-    I viewed a repository about a magic 8-ball game which gives you random fortunes. 
-    I figured that you could add ramifications and data to it to generate whether you would have good luck or bad luck based off of age, zodiac, date & time, and the seriousness of the action. 
-    I have ran the file and see that it just provides one of a few answers. so making mine actually calculate the answer instead of being a randomly generated one will be tough. 
-    I will make all of the categories have % of luck that will all calculate to final luck. 
+- [x] Find repositories for random generated answers (4/12/22)
+- [ ] find repositories for calculating answers
+- [ ] find a repository to attatch lists of variables to the calculator
 
