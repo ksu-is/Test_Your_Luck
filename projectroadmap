@@ -1,4 +1,16 @@
 - [x] Find repositories for random generated answers (4/12/22)
-- [ ] find repositories for calculating answers
+- [x] find repositories for calculating answers
+    found 2 repositories plus the calcgui from thomas
+    
 - [ ] find a repository to attatch lists of variables to the calculator
 
+- [x] create all the variable for month: (4/21/22)
+- [x] create all the variable for day: (4/21/22)
+- [x] create all the variable for time: (4/21/22)
+- [x] create all the variable for day of the week: (4/21/22)
+- [x] create all the variable for zodiac: (4/21/22)
+- [x] create all the variable for season: (4/21/22)
+- [x] create all the variable for task: (4/21/22)
+- [x] create all the variable for feeling lucky: (4/21/22)
+
+- [ ] creat the "if" "then" and "else" statements for all the variables
