@@ -1,5 +1,3 @@
-from tkinter import Y
-
 
 best_luck = 100
 worst_luck = 0
